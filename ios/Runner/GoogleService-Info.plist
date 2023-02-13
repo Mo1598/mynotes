@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>390195336238-8koo0ihjnvk1v0lm6pii1pkf45bdq4qc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.390195336238-8koo0ihjnvk1v0lm6pii1pkf45bdq4qc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiS-cGLWFgUdIcNlFZTs3evayPmymjO2I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>390195336238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.monjepartners.mynotes</string>
+	<key>PROJECT_ID</key>
+	<string>mynotes-njehu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mynotes-njehu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:390195336238:ios:3ad7f54e469340e65a3bbf</string>
+</dict>
+</plist>
