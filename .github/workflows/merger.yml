@@ -38,9 +38,9 @@ jobs:
           # Name of the repo. Defaults to current repository
           repo: mynotes
           # Name of the source branch (from)
-          source-branch: master
+          source-branch: development
           # Name of the target branch (to)
-          target-branch: main
+          target-branch: master
           # Message to use for the commit. If empty then a default message will be used ("Automatic merge of <source-branch> -> <target-branch>")
           commit-message: Approved for deployment
           # Repository access token. For example: secrets.GITHUB_TOKEN
